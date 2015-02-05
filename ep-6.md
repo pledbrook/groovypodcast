@@ -4,4 +4,6 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Fe
 
 ## News items
 
+In the new Groovy 2.4.0 release, I've been trying out the Android support. Adding Groovy is easy enough, and I've also added the SwissKnife project https://github.com/Arasthel/SwissKnife to a demo app.
+
 
