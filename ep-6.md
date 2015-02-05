@@ -12,3 +12,10 @@ I also think we should review news sources for Groovy info:
 - Stack Overflow
 - Groovy user's mailing list
 
+Also need to talk about the Grails 3.0.0.M1 release:
+- Standalone mode
+- Functional tests with Geb
+- Gradle now used for all scripts
+- YAML in config files
+- init dir has Application.groovy --> spin up app in IDE (from Spring Boot)
+- can run war file using java command from command line
