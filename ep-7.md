@@ -6,6 +6,14 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Fe
 
 * Groovy is likely to [join a foundation](http://groovy.329449.n5.nabble.com/Moving-Groovy-to-a-Foundation-td5722483.html)
 
+* [Gradle 2.3 released](http://forums.gradle.org/gradle/topics/gradle-2-3-released)
+  * Artifact Query API
+  * Better Eclipse Web Tools Platform (WTP) integration
+
+* Luke Daley tweet:
+
+  > Seeing light at the end of the tunnel of the last six months work in the form of 10x performance improvements.
+
 * Jochen thinking of removing `compareTo()` from the `==` check
 
 * [Spock-Android 1.1.0](https://github.com/pieces029/android-spock/releases/tag/v1.1.0) released - use Spock for unit testing your Android apps!
