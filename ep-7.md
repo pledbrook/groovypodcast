@@ -19,3 +19,5 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Fe
 * [Spock-Android 1.1.0](https://github.com/pieces029/android-spock/releases/tag/v1.1.0) released - use Spock for unit testing your Android apps!
 
 * [GrailsFlow 1.5](http://grailsflow.org/documentation/release-notes) released
+
+* [SpringOne 2GX CFP](http://springone2gx.com/) is now open!
