@@ -25,3 +25,5 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Fe
 * [SpringOne 2GX CFP](http://springone2gx.com/) is now open!
 
 * [New Grails web site](http://grails.org) available
+
+* [Java Testing with Spock](http://manning.com/kapelonis/) new MEAP from Manning 
