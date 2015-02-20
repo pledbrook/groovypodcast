@@ -14,7 +14,7 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Fe
 
   > Seeing light at the end of the tunnel of the last six months work in the form of 10x performance improvements.
 
-* Jochen thinking of removing `compareTo()` from the `==` check
+* Jochen thinking of [removing `compareTo()` from the `==` check](http://blackdragsview.blogspot.fr/2015/02/getting-rid-of-compareto-for.html)
 
 * [Spock-Android 1.1.0](https://github.com/pieces029/android-spock/releases/tag/v1.1.0) released - use Spock for unit testing your Android apps!
 
