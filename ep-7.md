@@ -21,3 +21,5 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Fe
 * [GrailsFlow 1.5](http://grailsflow.org/documentation/release-notes) released
 
 * [SpringOne 2GX CFP](http://springone2gx.com/) is now open!
+
+* [New Grails web site](http://grails.org) available
