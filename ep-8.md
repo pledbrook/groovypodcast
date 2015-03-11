@@ -12,6 +12,7 @@ Good morning, good afternoon, and good evening wherever you are. Today is ... Ma
 * Ratpack [releases 0.9.14](https://twitter.com/ratpackweb/status/572313824432287744)
 
 * Foundation news:
+  * [Groovy joins Apache](http://www.infoq.com/news/2015/03/groovy-moving-to-apache). Good interview with Guillaume Laforge about the move to Apache.
   * [Blog post](http://kohsuke.org/2015/02/27/groovy-folks-time-to-start-agreeing/) by Kohsuke Kawaguchi ("Groovy folks, time to start agreeing")
   * [Response](https://twitter.com/glaforge/status/571607558768762880) by Guillaume Laforge ("Now that everybody is back, we can decide rapidly. Stay tuned.")
 
