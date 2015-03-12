@@ -18,4 +18,7 @@ Good morning, good afternoon, and good evening wherever you are. Today is 12th M
 
 * [Java Testing with Spock](http://manning.com/kapelonis/) is #1 on [MEAP Best Sellers List](https://twitter.com/codepipes/status/571598932456955904) at Manning.
 
-* Grails 3.0.0.M2 released, and there is an [upgrade path from Grails 2.x](https://grails.github.io/grails-doc/latest/guide/upgrading.html) in the reference documentation.
+* Grails news
+  * [Grails 3.0.0.RC1](https://github.com/grails/grails-core/releases/tag/v3.0.0.RC1) released.
+  * Grails 3.0.0.M2 released, and there is an [upgrade path from Grails 2.x](https://grails.github.io/grails-doc/latest/guide/upgrading.html) in the reference documentation.
+
