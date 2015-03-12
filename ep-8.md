@@ -22,3 +22,4 @@ Good morning, good afternoon, and good evening wherever you are. Today is 12th M
   * [Grails 3.0.0.RC1](https://github.com/grails/grails-core/releases/tag/v3.0.0.RC1) released.
   * Grails 3.0.0.M2 released, and there is an [upgrade path from Grails 2.x](https://grails.github.io/grails-doc/latest/guide/upgrading.html) in the reference documentation.
 
+* [Who is Groovy?](http://melix.github.io/blog/2015/02/who-is-groovy.html) blog post by Cedric Champeau about the commit history of Groovy.
