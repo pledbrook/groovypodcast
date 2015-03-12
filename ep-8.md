@@ -1,6 +1,6 @@
 # Groovy Podcast Ep. 8
 
-Good morning, good afternoon, and good evening wherever you are. Today is ... March. Welcome to episode 8 of the Groovy Podcast with me, Peter Ledbrook, and me, Ken Kousen, ...
+Good morning, good afternoon, and good evening wherever you are. Today is 12th March. Welcome to episode 8 of the Groovy Podcast with me, Peter Ledbrook, and me, Ken Kousen, ...
 
 ## News items
 
