@@ -15,3 +15,5 @@ Good morning, good afternoon, and good evening wherever you are. Today is 26th M
 * [Gradle response](https://www.gradle.org/gradle-team-perspective-on-bazel/) to new open source Groovy build system, Bazel.
 
 * There is now a [@groovypodcast](http://twitter.com/groovypodcast) account. Icon and (hopefully) homepage coming soon.
+
+* [Tickets for GR8Conf Europe](https://twitter.com/gr8conf/status/580435505852071936) now on sale!
