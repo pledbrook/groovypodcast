@@ -11,3 +11,5 @@ Good morning, good afternoon, and good evening wherever you are. Today is 26th M
 * Matt Raible updated his [JVM web frameworks review](http://raibledesigns.com/rd/entry/comparing_jvm_web_frameworks_at) for his talk at Virtual JUG. Grails still comes out at or near the top, though Angular JS was the big gainer.
 
 * There is now a [@groovypodcast](http://twitter.com/groovypodcast) account. Icon and (hopefully) homepage coming soon.
+
+* [Tickets for GR8Conf Europe](https://twitter.com/gr8conf/status/580435505852071936) now on sale!
