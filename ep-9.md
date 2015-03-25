@@ -1,6 +1,6 @@
 # Groovy Podcast Ep. 9
 
-Good morning, good afternoon, and good evening wherever you are. Today is 26th March. Welcome to episode 8 of the Groovy Podcast with me, Ken Kousen, podcasting from Marlborough, CT, and me, Baruch Sadogursky, podcasting from Israel, ...
+Good morning, good afternoon, and good evening wherever you are. Today is 26th March. Welcome to episode 9 of the Groovy Podcast with me, Ken Kousen, podcasting from Marlborough, CT, and me, Baruch Sadogursky, podcasting from Israel, ...
 
 ## News items
 
@@ -10,4 +10,8 @@ Good morning, good afternoon, and good evening wherever you are. Today is 26th M
 
 * Matt Raible updated his [JVM web frameworks review](http://raibledesigns.com/rd/entry/comparing_jvm_web_frameworks_at) for his talk at Virtual JUG. Grails still comes out at or near the top, though Angular JS was the big gainer.
 
-* There is now a [@groovypodcat](http://twitter.com/groovypodcast) account. Icon and (hopefully) homepage coming soon.
+* [Grails 2.4.5](https://github.com/grails/grails-core/releases/tag/v2.4.5) and [Grails 2.5.0](https://github.com/grails/grails-core/releases/tag/v2.5.0) released and available on GVM.
+
+* [Gradle response](https://www.gradle.org/gradle-team-perspective-on-bazel/) to new open source Groovy build system, Bazel.
+
+* There is now a [@groovypodcast](http://twitter.com/groovypodcast) account. Icon and (hopefully) homepage coming soon.
